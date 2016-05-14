@@ -1,0 +1,2891 @@
+file outrf_blink.c: Parsing
+Converting
+Type-checking outrf_blink
+Generating GOTO Program
+Function Pointer Removal
+Pointer Analysis
+Adding Pointer Checks
+Starting Bounded Model Checking
+Unwinding loop 0 iteration 1 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 2 file lib/libc_string.h line 13 function memset
+Unwinding loop 3 iteration 1 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 2 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 3 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 4 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 5 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 6 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 7 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 8 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 9 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 10 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 11 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 12 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 7 iteration 1 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 2 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 3 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 4 iteration 1 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 1 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 2 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 3 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 4 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 5 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 6 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 7 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 8 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 9 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 10 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 11 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 12 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 7 iteration 1 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 2 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 3 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 4 iteration 2 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 1 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 2 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 3 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 4 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 5 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 6 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 7 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 8 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 9 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 10 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 11 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 3 iteration 12 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 7 iteration 1 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 2 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 7 iteration 3 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 10 iteration 1 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 2 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 10 iteration 3 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 4 iteration 3 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop
+size of program expression: 13944 assignments
+simple slicing removed 1 assignments
+Generated 1 VCC(s), 1 remaining after simplification
+Passing problem to propositional reduction
+Running propositional reduction
+Solving with MiniSAT2 without simplifier
+88596 variables, 231872 clauses
+SAT checker: negated claim is SATISFIABLE, i.e., does not hold
+Runtime decision procedure: 5.436s
+Building error trace
+
+Counterexample:
+
+State 1 file lib/msp430_hw.h line 32 thread 0
+----------------------------------------------------
+  _R0=0 (0000000000000000)
+
+State 2 file lib/msp430_hw.h line 33 thread 0
+----------------------------------------------------
+  _R1=0 (0000000000000000)
+
+State 3 file lib/msp430_hw.h line 34 thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 4 file lib/msp430_hw.h line 35 thread 0
+----------------------------------------------------
+  _R3=0 (0000000000000000)
+
+State 5 file lib/msp430_hw.h line 36 thread 0
+----------------------------------------------------
+  _R4=0 (0000000000000000)
+
+State 6 file lib/msp430_hw.h line 37 thread 0
+----------------------------------------------------
+  _R5=0 (0000000000000000)
+
+State 7 file lib/msp430_hw.h line 38 thread 0
+----------------------------------------------------
+  _R6=0 (0000000000000000)
+
+State 8 file lib/msp430_hw.h line 39 thread 0
+----------------------------------------------------
+  _R7=0 (0000000000000000)
+
+State 9 file lib/msp430_hw.h line 40 thread 0
+----------------------------------------------------
+  _R8=0 (0000000000000000)
+
+State 10 file lib/msp430_hw.h line 41 thread 0
+----------------------------------------------------
+  _R9=0 (0000000000000000)
+
+State 11 file lib/msp430_hw.h line 42 thread 0
+----------------------------------------------------
+  _R10=0 (0000000000000000)
+
+State 12 file lib/msp430_hw.h line 43 thread 0
+----------------------------------------------------
+  _R11=0 (0000000000000000)
+
+State 13 file lib/msp430_hw.h line 44 thread 0
+----------------------------------------------------
+  _R12=0 (0000000000000000)
+
+State 14 file lib/msp430_hw.h line 45 thread 0
+----------------------------------------------------
+  _R13=0 (0000000000000000)
+
+State 15 file lib/msp430_hw.h line 46 thread 0
+----------------------------------------------------
+  _R14=0 (0000000000000000)
+
+State 16 file lib/msp430_hw.h line 47 thread 0
+----------------------------------------------------
+  _R15=0 (0000000000000000)
+
+State 17 file lib/msp430_hw.h line 71 thread 0
+----------------------------------------------------
+  _IE1=0 (00000000)
+
+State 18 file lib/msp430_hw.h line 72 thread 0
+----------------------------------------------------
+  _IE2=0 (00000000)
+
+State 19 file lib/msp430_hw.h line 73 thread 0
+----------------------------------------------------
+  _IFG1=0 (00000000)
+
+State 20 file lib/msp430_hw.h line 74 thread 0
+----------------------------------------------------
+  _IFG2=0 (00000000)
+
+State 21 file lib/msp430_hw.h line 75 thread 0
+----------------------------------------------------
+  _ME1=0 (00000000)
+
+State 22 file lib/msp430_hw.h line 76 thread 0
+----------------------------------------------------
+  _ME2=0 (00000000)
+
+State 23 file lib/msp430_hw.h line 82 thread 0
+----------------------------------------------------
+  _P1IN=0 (00000000)
+
+State 24 file lib/msp430_hw.h line 83 thread 0
+----------------------------------------------------
+  _P1OUT=0 (00000000)
+
+State 25 file lib/msp430_hw.h line 84 thread 0
+----------------------------------------------------
+  _P1DIR=0 (00000000)
+
+State 26 file lib/msp430_hw.h line 85 thread 0
+----------------------------------------------------
+  _P1IFG=0 (00000000)
+
+State 27 file lib/msp430_hw.h line 86 thread 0
+----------------------------------------------------
+  _P1IES=0 (00000000)
+
+State 28 file lib/msp430_hw.h line 87 thread 0
+----------------------------------------------------
+  _P1IE=0 (00000000)
+
+State 29 file lib/msp430_hw.h line 88 thread 0
+----------------------------------------------------
+  _P1SEL=0 (00000000)
+
+State 30 file lib/msp430_hw.h line 93 thread 0
+----------------------------------------------------
+  _P2IN=0 (00000000)
+
+State 31 file lib/msp430_hw.h line 94 thread 0
+----------------------------------------------------
+  _P2OUT=0 (00000000)
+
+State 32 file lib/msp430_hw.h line 95 thread 0
+----------------------------------------------------
+  _P2DIR=0 (00000000)
+
+State 33 file lib/msp430_hw.h line 96 thread 0
+----------------------------------------------------
+  _P2IFG=0 (00000000)
+
+State 34 file lib/msp430_hw.h line 97 thread 0
+----------------------------------------------------
+  _P2IES=0 (00000000)
+
+State 35 file lib/msp430_hw.h line 98 thread 0
+----------------------------------------------------
+  _P2IE=0 (00000000)
+
+State 36 file lib/msp430_hw.h line 99 thread 0
+----------------------------------------------------
+  _P2SEL=0 (00000000)
+
+State 37 file lib/msp430_hw.h line 104 thread 0
+----------------------------------------------------
+  _P3IN=0 (00000000)
+
+State 38 file lib/msp430_hw.h line 105 thread 0
+----------------------------------------------------
+  _P3OUT=0 (00000000)
+
+State 39 file lib/msp430_hw.h line 106 thread 0
+----------------------------------------------------
+  _P3DIR=0 (00000000)
+
+State 40 file lib/msp430_hw.h line 107 thread 0
+----------------------------------------------------
+  _P3SEL=0 (00000000)
+
+State 41 file lib/msp430_hw.h line 112 thread 0
+----------------------------------------------------
+  _P4IN=0 (00000000)
+
+State 42 file lib/msp430_hw.h line 113 thread 0
+----------------------------------------------------
+  _P4OUT=0 (00000000)
+
+State 43 file lib/msp430_hw.h line 114 thread 0
+----------------------------------------------------
+  _P4DIR=0 (00000000)
+
+State 44 file lib/msp430_hw.h line 115 thread 0
+----------------------------------------------------
+  _P4SEL=0 (00000000)
+
+State 45 file lib/msp430_hw.h line 122 thread 0
+----------------------------------------------------
+  _P5IN=0 (00000000)
+
+State 46 file lib/msp430_hw.h line 123 thread 0
+----------------------------------------------------
+  main::$tmp::return_value_nondet_bv$1=0 (0000000000000000)
+
+State 47 file lib/msp430_hw.h line 123 thread 0
+----------------------------------------------------
+  _P5OUT=0 (00000000)
+
+State 48 file lib/msp430_hw.h line 124 thread 0
+----------------------------------------------------
+  _P5DIR=0 (00000000)
+
+State 49 file lib/msp430_hw.h line 125 thread 0
+----------------------------------------------------
+  _P5SEL=0 (00000000)
+
+State 50 file lib/msp430_hw.h line 130 thread 0
+----------------------------------------------------
+  _P6IN=0 (00000000)
+
+State 51 file lib/msp430_hw.h line 131 thread 0
+----------------------------------------------------
+  _P6OUT=0 (00000000)
+
+State 52 file lib/msp430_hw.h line 132 thread 0
+----------------------------------------------------
+  _P6DIR=0 (00000000)
+
+State 53 file lib/msp430_hw.h line 133 thread 0
+----------------------------------------------------
+  _P6SEL=0 (00000000)
+
+State 54 file lib/msp430_hw.h line 138 thread 0
+----------------------------------------------------
+  _SVSCTL=0 (00000000)
+
+State 55 file lib/msp430_hw.h line 143 thread 0
+----------------------------------------------------
+  _BCSCTL2=0 (00000000)
+
+State 56 file lib/msp430_hw.h line 144 thread 0
+----------------------------------------------------
+  _BCSCTL1=0 (00000000)
+
+State 57 file lib/msp430_hw.h line 145 thread 0
+----------------------------------------------------
+  _DCOCTL=0 (00000000)
+
+State 58 file lib/msp430_hw.h line 150 thread 0
+----------------------------------------------------
+  _CAPD=0 (00000000)
+
+State 59 file lib/msp430_hw.h line 151 thread 0
+----------------------------------------------------
+  _CACTL2=0 (00000000)
+
+State 60 file lib/msp430_hw.h line 152 thread 0
+----------------------------------------------------
+  _CACTL1=0 (00000000)
+
+State 61 file lib/msp430_hw.h line 157 thread 0
+----------------------------------------------------
+  _U0TXBUF=0 (00000000)
+
+State 62 file lib/msp430_hw.h line 158 thread 0
+----------------------------------------------------
+  _U0RXBUF=0 (00000000)
+
+State 63 file lib/msp430_hw.h line 159 thread 0
+----------------------------------------------------
+  _U0BR1=0 (00000000)
+
+State 64 file lib/msp430_hw.h line 160 thread 0
+----------------------------------------------------
+  _U0BR0=0 (00000000)
+
+State 65 file lib/msp430_hw.h line 161 thread 0
+----------------------------------------------------
+  _U0MCTL=0 (00000000)
+
+State 66 file lib/msp430_hw.h line 162 thread 0
+----------------------------------------------------
+  _U0RCTL=0 (00000000)
+
+State 67 file lib/msp430_hw.h line 163 thread 0
+----------------------------------------------------
+  _U0TCTL=0 (00000000)
+
+State 68 file lib/msp430_hw.h line 164 thread 0
+----------------------------------------------------
+  _U0CTL=0 (00000000)
+
+State 69 file lib/msp430_hw.h line 169 thread 0
+----------------------------------------------------
+  _U1TXBUF=0 (0000000000000000)
+
+State 70 file lib/msp430_hw.h line 170 thread 0
+----------------------------------------------------
+  _U1RXBUF=0 (0000000000000000)
+
+State 71 file lib/msp430_hw.h line 171 thread 0
+----------------------------------------------------
+  _U1BR1=0 (0000000000000000)
+
+State 72 file lib/msp430_hw.h line 172 thread 0
+----------------------------------------------------
+  _U1BR0=0 (0000000000000000)
+
+State 73 file lib/msp430_hw.h line 173 thread 0
+----------------------------------------------------
+  _U1MCTL=0 (0000000000000000)
+
+State 74 file lib/msp430_hw.h line 174 thread 0
+----------------------------------------------------
+  _U1RCTL=0 (0000000000000000)
+
+State 75 file lib/msp430_hw.h line 175 thread 0
+----------------------------------------------------
+  _U1TCTL=0 (0000000000000000)
+
+State 76 file lib/msp430_hw.h line 176 thread 0
+----------------------------------------------------
+  _U1CTL=0 (0000000000000000)
+
+State 77 file lib/msp430_hw.h line 181 thread 0
+----------------------------------------------------
+  _WDTCTL=0 (0000000000000000)
+
+State 78 file lib/msp430_hw.h line 186 thread 0
+----------------------------------------------------
+  _FCTL3=0 (0000000000000000)
+
+State 79 file lib/msp430_hw.h line 187 thread 0
+----------------------------------------------------
+  _FCTL2=0 (0000000000000000)
+
+State 80 file lib/msp430_hw.h line 188 thread 0
+----------------------------------------------------
+  _FCTL1=0 (0000000000000000)
+
+State 81 file lib/msp430_hw.h line 194 thread 0
+----------------------------------------------------
+  _SUMEXT=0 (0000000000000000)
+
+State 82 file lib/msp430_hw.h line 195 thread 0
+----------------------------------------------------
+  _RESHI=0 (0000000000000000)
+
+State 83 file lib/msp430_hw.h line 196 thread 0
+----------------------------------------------------
+  _RESLO=0 (0000000000000000)
+
+State 84 file lib/msp430_hw.h line 197 thread 0
+----------------------------------------------------
+  _OP2=0 (0000000000000000)
+
+State 85 file lib/msp430_hw.h line 198 thread 0
+----------------------------------------------------
+  _MACS=0 (0000000000000000)
+
+State 86 file lib/msp430_hw.h line 199 thread 0
+----------------------------------------------------
+  _MAC=0 (0000000000000000)
+
+State 87 file lib/msp430_hw.h line 200 thread 0
+----------------------------------------------------
+  _MPYS=0 (0000000000000000)
+
+State 88 file lib/msp430_hw.h line 201 thread 0
+----------------------------------------------------
+  _MPY=0 (0000000000000000)
+
+State 89 file lib/msp430_hw.h line 206 thread 0
+----------------------------------------------------
+  _TACCTL2=0 (0000000000000000)
+
+State 90 file lib/msp430_hw.h line 207 thread 0
+----------------------------------------------------
+  _TACCTL1=0 (0000000000000000)
+
+State 91 file lib/msp430_hw.h line 208 thread 0
+----------------------------------------------------
+  _TACCTL0=0 (0000000000000000)
+
+State 92 file lib/msp430_hw.h line 209 thread 0
+----------------------------------------------------
+  _TACTL=0 (0000000000000000)
+
+State 93 file lib/msp430_hw.h line 210 thread 0
+----------------------------------------------------
+  _TAIV=0 (0000000000000000)
+
+State 94 file lib/msp430_hw.h line 211 thread 0
+----------------------------------------------------
+  _TACCR2=0 (0000000000000000)
+
+State 95 file lib/msp430_hw.h line 212 thread 0
+----------------------------------------------------
+  _TACCR1=0 (0000000000000000)
+
+State 96 file lib/msp430_hw.h line 213 thread 0
+----------------------------------------------------
+  _TACCR0=0 (0000000000000000)
+
+State 97 file lib/msp430_hw.h line 214 thread 0
+----------------------------------------------------
+  _TAR=0 (0000000000000000)
+
+State 98 file lib/msp430_hw.h line 225 thread 0
+----------------------------------------------------
+  _TBCCR6=0 (0000000000000000)
+
+State 99 file lib/msp430_hw.h line 226 thread 0
+----------------------------------------------------
+  _TBCCR5=0 (0000000000000000)
+
+State 100 file lib/msp430_hw.h line 227 thread 0
+----------------------------------------------------
+  _TBCCR4=0 (0000000000000000)
+
+State 101 file lib/msp430_hw.h line 228 thread 0
+----------------------------------------------------
+  _TBCCR3=0 (0000000000000000)
+
+State 102 file lib/msp430_hw.h line 229 thread 0
+----------------------------------------------------
+  _TBCCR2=0 (0000000000000000)
+
+State 103 file lib/msp430_hw.h line 230 thread 0
+----------------------------------------------------
+  _TBCCR1=0 (0000000000000000)
+
+State 104 file lib/msp430_hw.h line 231 thread 0
+----------------------------------------------------
+  _TBCCR0=0 (0000000000000000)
+
+State 105 file lib/msp430_hw.h line 232 thread 0
+----------------------------------------------------
+  _TBR=0 (0000000000000000)
+
+State 106 file lib/msp430_hw.h line 233 thread 0
+----------------------------------------------------
+  _TBCCTL6=0 (0000000000000000)
+
+State 107 file lib/msp430_hw.h line 234 thread 0
+----------------------------------------------------
+  _TBCCTL5=0 (0000000000000000)
+
+State 108 file lib/msp430_hw.h line 235 thread 0
+----------------------------------------------------
+  _TBCCTL4=0 (0000000000000000)
+
+State 109 file lib/msp430_hw.h line 236 thread 0
+----------------------------------------------------
+  _TBCCTL3=0 (0000000000000000)
+
+State 110 file lib/msp430_hw.h line 237 thread 0
+----------------------------------------------------
+  _TBCCTL2=0 (0000000000000000)
+
+State 111 file lib/msp430_hw.h line 238 thread 0
+----------------------------------------------------
+  _TBCCTL1=0 (0000000000000000)
+
+State 112 file lib/msp430_hw.h line 239 thread 0
+----------------------------------------------------
+  _TBCCTL0=0 (0000000000000000)
+
+State 113 file lib/msp430_hw.h line 240 thread 0
+----------------------------------------------------
+  _TBCTL=0 (0000000000000000)
+
+State 114 file lib/msp430_hw.h line 241 thread 0
+----------------------------------------------------
+  _TBIV=0 (0000000000000000)
+
+State 115 file lib/msp430_hw.h line 264 thread 0
+----------------------------------------------------
+  _ADC12IV=0 (0000000000000000)
+
+State 116 file lib/msp430_hw.h line 265 thread 0
+----------------------------------------------------
+  _ADC12IE=0 (0000000000000000)
+
+State 117 file lib/msp430_hw.h line 266 thread 0
+----------------------------------------------------
+  _ADC12IFG=0 (0000000000000000)
+
+State 118 file lib/msp430_hw.h line 267 thread 0
+----------------------------------------------------
+  _ADC12CTL1=0 (0000000000000000)
+
+State 119 file lib/msp430_hw.h line 268 thread 0
+----------------------------------------------------
+  _ADC12CTL0=0 (0000000000000000)
+
+State 120 file lib/msp430_hw.h line 270 thread 0
+----------------------------------------------------
+  _ADC12MEM={ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
+
+State 121 file lib/msp430_hw.h line 271 thread 0
+----------------------------------------------------
+  _ADC12MCTL={ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
+
+State 122 file lib/msp430_hw.h line 276 thread 0
+----------------------------------------------------
+  _DAC12_1DAT=0 (0000000000000000)
+
+State 123 file lib/msp430_hw.h line 277 thread 0
+----------------------------------------------------
+  _DAC12_1CTL=0 (0000000000000000)
+
+State 124 file lib/msp430_hw.h line 278 thread 0
+----------------------------------------------------
+  _DAC12_0DAT=0 (0000000000000000)
+
+State 125 file lib/msp430_hw.h line 279 thread 0
+----------------------------------------------------
+  _DAC12_0CTL=0 (0000000000000000)
+
+State 126 file lib/msp430_hw.h line 284 thread 0
+----------------------------------------------------
+  _DMA2SZ=0 (0000000000000000)
+
+State 127 file lib/msp430_hw.h line 285 thread 0
+----------------------------------------------------
+  _DMA2DA=0 (0000000000000000)
+
+State 128 file lib/msp430_hw.h line 286 thread 0
+----------------------------------------------------
+  _DMA2SA=0 (0000000000000000)
+
+State 129 file lib/msp430_hw.h line 287 thread 0
+----------------------------------------------------
+  _DMA2CTL=0 (0000000000000000)
+
+State 130 file lib/msp430_hw.h line 288 thread 0
+----------------------------------------------------
+  _DMA1SZ=0 (0000000000000000)
+
+State 131 file lib/msp430_hw.h line 289 thread 0
+----------------------------------------------------
+  _DMA1DA=0 (0000000000000000)
+
+State 132 file lib/msp430_hw.h line 290 thread 0
+----------------------------------------------------
+  _DMA1SA=0 (0000000000000000)
+
+State 133 file lib/msp430_hw.h line 291 thread 0
+----------------------------------------------------
+  _DMA1CTL=0 (0000000000000000)
+
+State 134 file lib/msp430_hw.h line 292 thread 0
+----------------------------------------------------
+  _DMA0SZ=0 (0000000000000000)
+
+State 135 file lib/msp430_hw.h line 293 thread 0
+----------------------------------------------------
+  _DMA0DA=0 (0000000000000000)
+
+State 136 file lib/msp430_hw.h line 294 thread 0
+----------------------------------------------------
+  _DMA0SA=0 (0000000000000000)
+
+State 137 file lib/msp430_hw.h line 295 thread 0
+----------------------------------------------------
+  _DMA0CTL=0 (0000000000000000)
+
+State 138 file lib/msp430_hw.h line 296 thread 0
+----------------------------------------------------
+  _DMACTL1=0 (0000000000000000)
+
+State 139 file lib/msp430_hw.h line 297 thread 0
+----------------------------------------------------
+  _DMACTL0=0 (0000000000000000)
+
+State 140 file outrf_blink.c line 5 thread 0
+----------------------------------------------------
+  hook=0 (00000000)
+
+State 141 file outrf_blink.c line 1248 thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=0 (00000000)
+
+State 142 file outrf_blink.c line 1250 thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=0 (00000000)
+
+State 143 file outrf_blink.c line 1252 thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 0, 0 }
+
+State 144 file outrf_blink.c line 1272 thread 0
+----------------------------------------------------
+  McuSleepC_dirty=1 (00000001)
+
+State 145 file outrf_blink.c line 1274 thread 0
+----------------------------------------------------
+  McuSleepC_powerState=0 (00000000)
+
+State 146 file outrf_blink.c line 1276 thread 0
+----------------------------------------------------
+  McuSleepC_msp430PowerBits={ 0, 16, 80, 144, 208, 240 }
+
+State 147 file outrf_blink.c line 1430 thread 0
+----------------------------------------------------
+  TransformCounterC_0_m_upper=0 (00000000000000000000000000000000)
+
+State 148 file outrf_blink.c line 1446 thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_t0=0 (00000000000000000000000000000000)
+
+State 149 file outrf_blink.c line 1448 thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_dt=0 (00000000000000000000000000000000)
+
+State 150 file outrf_blink.c line 1482 thread 0
+----------------------------------------------------
+  AlarmToTimerC_0_m_dt=0 (00000000000000000000000000000000)
+
+State 151 file outrf_blink.c line 1484 thread 0
+----------------------------------------------------
+  AlarmToTimerC_0_m_oneshot=0 (00000000)
+
+State 152 file outrf_blink.c line 1522 thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 153 file <built-in> line 12 thread 0
+----------------------------------------------------
+  __CPROVER_alloc=(assignment removed)
+
+State 154 file <built-in> line 13 thread 0
+----------------------------------------------------
+  __CPROVER_alloc_size=(assignment removed)
+
+State 155 file <built-in> line 14 thread 0
+----------------------------------------------------
+  __func__=(assignment removed)
+
+State 156 file <built-in> line 19 thread 0
+----------------------------------------------------
+  __CPROVER_rounding_mode=0 (0000000000000000)
+
+State 159 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=0 (00000000)
+
+State 161 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 165 file outrf_blink.c line 3242 function main thread 0
+----------------------------------------------------
+  outrf_blink::main::1::1::__nesc_atomic=0 (00000000)
+
+State 172 file lib/libc_string.h line 9 function memset thread 0
+----------------------------------------------------
+  outrf_blink::memset::1::i=0 (0000000000000000)
+
+State 174 file lib/libc_string.h line 14 function memset thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 0 }
+
+State 175 file lib/libc_string.h line 15 function memset thread 0
+----------------------------------------------------
+  outrf_blink::memset::1::i=1 (0000000000000001)
+
+State 178 file lib/libc_string.h line 14 function memset thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 255 }
+
+State 179 file lib/libc_string.h line 15 function memset thread 0
+----------------------------------------------------
+  outrf_blink::memset::1::i=2 (0000000000000010)
+
+State 184 file outrf_blink.c line 2203 function SchedulerBasicP_Scheduler_init thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=255 (11111111)
+
+State 185 file outrf_blink.c line 2204 function SchedulerBasicP_Scheduler_init thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=255 (11111111)
+
+State 192 file outrf_blink.c line 2537 function Msp430ClockP_Init_init thread 0
+----------------------------------------------------
+  _TACTL=4 (0000000000000100)
+
+State 193 file outrf_blink.c line 2538 function Msp430ClockP_Init_init thread 0
+----------------------------------------------------
+  _TAIV=0 (0000000000000000)
+
+State 194 file outrf_blink.c line 2539 function Msp430ClockP_Init_init thread 0
+----------------------------------------------------
+  _TBCTL=4 (0000000000000100)
+
+State 195 file outrf_blink.c line 2540 function Msp430ClockP_Init_init thread 0
+----------------------------------------------------
+  _TBIV=0 (0000000000000000)
+
+State 199 file outrf_blink.c line 2520 function Msp430ClockP_Msp430ClockInit_defaultInitClocks thread 0
+----------------------------------------------------
+  _BCSCTL1=128 (10000000)
+
+State 200 file outrf_blink.c line 2521 function Msp430ClockP_Msp430ClockInit_defaultInitClocks thread 0
+----------------------------------------------------
+  _BCSCTL2=4 (00000100)
+
+State 201 file outrf_blink.c line 2522 function Msp430ClockP_Msp430ClockInit_defaultInitClocks thread 0
+----------------------------------------------------
+  _IE1=0 (00000000)
+
+State 208 file outrf_blink.c line 2504 function Msp430ClockP_Msp430ClockInit_defaultInitTimerA thread 0
+----------------------------------------------------
+  _TAR=0 (0000000000000000)
+
+State 209 file outrf_blink.c line 2505 function Msp430ClockP_Msp430ClockInit_defaultInitTimerA thread 0
+----------------------------------------------------
+  _TACTL=514 (0000001000000010)
+
+State 216 file outrf_blink.c line 2488 function Msp430ClockP_Msp430ClockInit_defaultInitTimerB thread 0
+----------------------------------------------------
+  _TBR=0 (0000000000000000)
+
+State 217 file outrf_blink.c line 2489 function Msp430ClockP_Msp430ClockInit_defaultInitTimerB thread 0
+----------------------------------------------------
+  _TBCTL=258 (0000000100000010)
+
+State 222 file outrf_blink.c line 2483 function Msp430ClockP_startTimerA thread 0
+----------------------------------------------------
+  _TACTL=562 (0000001000110010)
+
+State 225 file outrf_blink.c line 2478 function Msp430ClockP_startTimerB thread 0
+----------------------------------------------------
+  _TBCTL=306 (0000000100110010)
+
+State 227 file outrf_blink.c line 2548 function Msp430ClockP_Init_init thread 0
+----------------------------------------------------
+  outrf_blink::PlatformP_MoteClockInit_init::1::result=0 (00000000)
+
+State 232 file outrf_blink.c line 2444 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P1SEL=0 (00000000)
+
+State 233 file outrf_blink.c line 2445 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P2SEL=0 (00000000)
+
+State 234 file outrf_blink.c line 2446 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P3SEL=0 (00000000)
+
+State 235 file outrf_blink.c line 2447 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P4SEL=0 (00000000)
+
+State 236 file outrf_blink.c line 2448 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P5SEL=0 (00000000)
+
+State 237 file outrf_blink.c line 2449 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P6SEL=0 (00000000)
+
+State 238 file outrf_blink.c line 2450 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P1OUT=0 (00000000)
+
+State 239 file outrf_blink.c line 2451 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P1DIR=224 (11100000)
+
+State 240 file outrf_blink.c line 2452 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P2OUT=48 (00110000)
+
+State 241 file outrf_blink.c line 2453 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P2DIR=123 (01111011)
+
+State 242 file outrf_blink.c line 2454 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P3OUT=0 (00000000)
+
+State 243 file outrf_blink.c line 2455 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P3DIR=241 (11110001)
+
+State 244 file outrf_blink.c line 2456 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P4OUT=221 (11011101)
+
+State 245 file outrf_blink.c line 2457 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P4DIR=253 (11111101)
+
+State 246 file outrf_blink.c line 2458 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P5OUT=255 (11111111)
+
+State 247 file outrf_blink.c line 2459 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P5DIR=255 (11111111)
+
+State 248 file outrf_blink.c line 2460 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P6OUT=0 (00000000)
+
+State 249 file outrf_blink.c line 2461 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P6DIR=255 (11111111)
+
+State 250 file outrf_blink.c line 2462 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P1IE=0 (00000000)
+
+State 251 file outrf_blink.c line 2463 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  _P2IE=0 (00000000)
+
+State 254 file outrf_blink.c line 2414 function TOSH_MAKE_SIMO0_OUTPUT thread 0
+----------------------------------------------------
+  _P3DIR=243 (11110011)
+
+State 257 file outrf_blink.c line 2408 function TOSH_MAKE_UCLK0_OUTPUT thread 0
+----------------------------------------------------
+  _P4DIR=253 (11111101)
+
+State 260 file outrf_blink.c line 2402 function TOSH_MAKE_FLASH_HOLD_OUTPUT thread 0
+----------------------------------------------------
+  _P4DIR=253 (11111101)
+
+State 263 file outrf_blink.c line 2396 function TOSH_MAKE_FLASH_CS_OUTPUT thread 0
+----------------------------------------------------
+  _P4OUT=221 (11011101)
+
+State 266 file outrf_blink.c line 2390 function TOSH_SET_FLASH_HOLD_PIN thread 0
+----------------------------------------------------
+  _P4OUT=221 (11011101)
+
+State 269 file outrf_blink.c line 2368 function TOSH_SET_FLASH_CS_PIN thread 0
+----------------------------------------------------
+  _P3OUT=16 (00010000)
+
+State 274 file outrf_blink.c line 2380 function TOSH_CLR_FLASH_CS_PIN thread 0
+----------------------------------------------------
+  _P3OUT=0 (00000000)
+
+State 277 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 283 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=2 (00000010)
+
+State 287 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 290 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 297 file outrf_blink.c line 2576 function TOSH_CLR_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3DIR=240 (11110000)
+
+State 300 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 303 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 309 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 313 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 316 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 322 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 326 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 329 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 335 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 339 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 342 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 349 file outrf_blink.c line 2576 function TOSH_CLR_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3DIR=240 (11110000)
+
+State 352 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 355 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 362 file outrf_blink.c line 2576 function TOSH_CLR_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3DIR=240 (11110000)
+
+State 365 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 368 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 374 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 378 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=10 (00001010)
+
+State 381 file outrf_blink.c line 2374 function TOSH_CLR_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P4OUT=208 (11010000)
+
+State 384 file outrf_blink.c line 2368 function TOSH_SET_FLASH_CS_PIN thread 0
+----------------------------------------------------
+  _P3OUT=26 (00011010)
+
+State 387 file outrf_blink.c line 2362 function TOSH_SET_UCLK0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=26 (00011010)
+
+State 390 file outrf_blink.c line 2356 function TOSH_SET_SIMO0_PIN thread 0
+----------------------------------------------------
+  _P3OUT=26 (00011010)
+
+State 393 file outrf_blink.c line 2466 function MotePlatformC_Init_init thread 0
+----------------------------------------------------
+  outrf_blink::PlatformP_MoteInit_init::1::result=0 (00000000)
+
+State 402 file outrf_blink.c line 2315 function HplMsp430GeneralIOP_36_IO_makeOutput thread 0
+----------------------------------------------------
+  _P5DIR=255 (11111111)
+
+State 411 file outrf_blink.c line 2295 function HplMsp430GeneralIOP_37_IO_makeOutput thread 0
+----------------------------------------------------
+  _P5DIR=255 (11111111)
+
+State 420 file outrf_blink.c line 2275 function HplMsp430GeneralIOP_38_IO_makeOutput thread 0
+----------------------------------------------------
+  _P5DIR=255 (11111111)
+
+State 429 file outrf_blink.c line 2255 function HplMsp430GeneralIOP_36_IO_set thread 0
+----------------------------------------------------
+  _P5OUT=255 (11111111)
+
+State 438 file outrf_blink.c line 2235 function HplMsp430GeneralIOP_37_IO_set thread 0
+----------------------------------------------------
+  _P5OUT=255 (11111111)
+
+State 447 file outrf_blink.c line 2215 function HplMsp430GeneralIOP_38_IO_set thread 0
+----------------------------------------------------
+  _P5OUT=255 (11111111)
+
+State 452 file outrf_blink.c line 2343 function LedsP_Init_init thread 0
+----------------------------------------------------
+  outrf_blink::PlatformP_LedsInit_init::1::result=0 (00000000)
+
+State 455 file outrf_blink.c line 2563 function PlatformP_Init_init thread 0
+----------------------------------------------------
+  outrf_blink::RealMainP_PlatformInit_init::1::result=0 (00000000)
+
+State 463 file outrf_blink.c line 3049 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_runNextTask::1::nextTask=255 (11111111)
+
+State 467 file outrf_blink.c line 3285 function SchedulerBasicP_Scheduler_runNextTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_runNextTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 470 file outrf_blink.c line 2583 function RealMainP_Scheduler_runNextTask thread 0
+----------------------------------------------------
+  c::main::$tmp::return_value_RealMainP_Scheduler_runNextTask$2=0 (00000000)
+
+State 478 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=0 (0000000000000000)
+
+State 484 file outrf_blink.c line 2858 function Msp430TimerCapComP_3_compareControl thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_compareControl::1::x={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 486 file outrf_blink.c line 2851 function Msp430TimerCapComP_3_CC2int thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_CC2int::x={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 487 file outrf_blink.c line 2852 function Msp430TimerCapComP_3_CC2int thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_CC2int::1::c={ .f={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 } }
+
+State 488 file outrf_blink.c line 2853 function Msp430TimerCapComP_3_CC2int thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_compareControl::$tmp::return_value_Msp430TimerCapComP_3_CC2int$1=16384 (0100000000000000)
+
+State 490 file outrf_blink.c line 2859 function Msp430TimerCapComP_3_compareControl thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 494 file outrf_blink.c line 2876 function Msp430AlarmC_0_Init_init thread 0
+----------------------------------------------------
+  outrf_blink::RealMainP_SoftwareInit_init::1::result=0 (00000000)
+
+State 502 file outrf_blink.c line 3049 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_runNextTask::1::nextTask=255 (11111111)
+
+State 506 file outrf_blink.c line 3285 function SchedulerBasicP_Scheduler_runNextTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_runNextTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 509 file outrf_blink.c line 2583 function RealMainP_Scheduler_runNextTask thread 0
+----------------------------------------------------
+  c::main::$tmp::return_value_RealMainP_Scheduler_runNextTask$3=0 (00000000)
+
+State 518 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 523 file outrf_blink.c line 2898 function BlinkC_Timer0_startPeriodic thread 0
+----------------------------------------------------
+  outrf_blink::BlinkC_Timer0_startPeriodic::dt=250 (00000000000000000000000011111010)
+
+State 533 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 535 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 537 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 541 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 542 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 547 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=22400 (0101011110000000)
+
+State 548 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=22400 (0101011110000000)
+
+State 551 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=22400 (0101011110000000)
+
+State 553 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=22400 (0101011110000000)
+
+State 555 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=22400 (0101011110000000)
+
+State 557 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=22400 (0101011110000000)
+
+State 562 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 564 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 566 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 568 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 572 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 573 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=700 (00000000000000000000001010111100)
+
+State 574 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=700 (00000000000000000000001010111100)
+
+State 579 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 583 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=700 (00000000000000000000001010111100)
+
+State 585 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=700 (00000000000000000000001010111100)
+
+State 587 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=700 (00000000000000000000001010111100)
+
+State 589 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=700 (00000000000000000000001010111100)
+
+State 591 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_Timer_startPeriodic::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=700 (00000000000000000000001010111100)
+
+State 594 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::num=0 (00000000)
+
+State 595 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::t0=700 (00000000000000000000001010111100)
+
+State 596 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::dt=250 (00000000000000000000000011111010)
+
+State 597 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::isoneshot=0 (00000000)
+
+State 598 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 599 file outrf_blink.c line 2923 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 600 file outrf_blink.c line 2924 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 601 file outrf_blink.c line 2925 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 602 file outrf_blink.c line 2926 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 607 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 609 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 613 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=1 (00000001)
+
+State 615 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=1 (00000001)
+
+State 617 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=1 (00000001)
+
+State 618 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=0 (00000000)
+
+State 622 file outrf_blink.c line 1753 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=1 (00000001)
+
+State 623 file outrf_blink.c line 1754 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=1 (00000001)
+
+State 625 file outrf_blink.c line 1761 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=1 (00000001)
+
+State 628 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 633 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 641 file outrf_blink.c line 2893 function BlinkC_Timer1_startPeriodic thread 0
+----------------------------------------------------
+  outrf_blink::BlinkC_Timer1_startPeriodic::dt=500 (00000000000000000000000111110100)
+
+State 651 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 653 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 655 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 659 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 660 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 665 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=-27136 (1001011000000000)
+
+State 666 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=38400 (1001011000000000)
+
+State 669 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=38400 (1001011000000000)
+
+State 671 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=38400 (1001011000000000)
+
+State 673 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=38400 (1001011000000000)
+
+State 675 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=38400 (1001011000000000)
+
+State 680 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 682 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 684 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 686 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 690 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 691 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=1200 (00000000000000000000010010110000)
+
+State 692 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=1200 (00000000000000000000010010110000)
+
+State 697 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 701 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=1200 (00000000000000000000010010110000)
+
+State 703 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=1200 (00000000000000000000010010110000)
+
+State 705 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=1200 (00000000000000000000010010110000)
+
+State 707 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=1200 (00000000000000000000010010110000)
+
+State 709 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_Timer_startPeriodic::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=1200 (00000000000000000000010010110000)
+
+State 712 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::num=1 (00000001)
+
+State 713 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::t0=1200 (00000000000000000000010010110000)
+
+State 714 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::dt=500 (00000000000000000000000111110100)
+
+State 715 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::isoneshot=0 (00000000)
+
+State 716 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 717 file outrf_blink.c line 2923 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 718 file outrf_blink.c line 2924 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 719 file outrf_blink.c line 2925 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=0, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 720 file outrf_blink.c line 2926 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=0, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 725 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 727 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 731 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=1 (00000001)
+
+State 733 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=1 (00000001)
+
+State 735 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=1 (00000001)
+
+State 736 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=1 (00000001)
+
+State 739 file outrf_blink.c line 1765 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=0 (00000000)
+
+State 742 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=5 (00000101)
+
+State 747 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 755 file outrf_blink.c line 2888 function BlinkC_Timer2_startPeriodic thread 0
+----------------------------------------------------
+  outrf_blink::BlinkC_Timer2_startPeriodic::dt=1000 (00000000000000000000001111101000)
+
+State 765 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 767 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 769 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 773 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 774 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 779 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=5696 (0001011001000000)
+
+State 780 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=5696 (0001011001000000)
+
+State 783 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=5696 (0001011001000000)
+
+State 785 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=5696 (0001011001000000)
+
+State 787 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=5696 (0001011001000000)
+
+State 789 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=5696 (0001011001000000)
+
+State 794 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 796 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 798 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 800 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 804 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 805 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=178 (00000000000000000000000010110010)
+
+State 806 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=178 (00000000000000000000000010110010)
+
+State 811 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 815 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=178 (00000000000000000000000010110010)
+
+State 817 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=178 (00000000000000000000000010110010)
+
+State 819 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=178 (00000000000000000000000010110010)
+
+State 821 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=178 (00000000000000000000000010110010)
+
+State 823 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_Timer_startPeriodic::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=178 (00000000000000000000000010110010)
+
+State 826 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::num=2 (00000010)
+
+State 827 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::t0=178 (00000000000000000000000010110010)
+
+State 828 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::dt=1000 (00000000000000000000001111101000)
+
+State 829 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::isoneshot=0 (00000000)
+
+State 830 file outrf_blink.c line 2922 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_startTimer::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 831 file outrf_blink.c line 2923 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=0, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 832 file outrf_blink.c line 2924 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=1000, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 833 file outrf_blink.c line 2925 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=1000, .isoneshot=0, .isrunning=0, ._reserved=0 } }
+
+State 834 file outrf_blink.c line 2926 function VirtualizeTimerC_0_startTimer thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=700, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=1000, .isoneshot=0, .isrunning=1, ._reserved=0 } }
+
+State 839 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 841 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 845 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=1 (00000001)
+
+State 847 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=1 (00000001)
+
+State 849 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=1 (00000001)
+
+State 850 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=1 (00000001)
+
+State 853 file outrf_blink.c line 1765 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=0 (00000000)
+
+State 856 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=5 (00000101)
+
+State 861 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 872 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::i=0 (0000000000000000)
+
+State 875 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 877 file outrf_blink.c line 3098 function sig_TIMERB0_VECTOR thread 0
+----------------------------------------------------
+  hook=1 (00000001)
+
+State 886 file outrf_blink.c line 1716 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::x=16384 (0100000000000000)
+
+State 887 file outrf_blink.c line 1717 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::1::c={ .f=16384 }
+
+State 888 file outrf_blink.c line 1718 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Control_getControl::$tmp::return_value_Msp430TimerCapComP_3_int2CC$1={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 890 file outrf_blink.c line 1723 function Msp430TimerCapComP_3_Control_getControl thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Event_fired::$tmp::return_value_Msp430TimerCapComP_3_Control_getControl$2={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 898 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 910 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=0 (00000000)
+
+State 912 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 916 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=0 (00000000)
+
+State 918 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=0 (00000000)
+
+State 920 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=0 (00000000)
+
+State 921 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=0 (00000000)
+
+State 926 file outrf_blink.c line 1758 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 0 }
+
+State 927 file outrf_blink.c line 1759 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=0 (00000000)
+
+State 928 file outrf_blink.c line 1761 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=1 (00000001)
+
+State 931 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 950 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 952 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 954 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 958 file outrf_blink.c line 3062 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::1::__nesc_atomic=1 (00000001)
+
+State 961 file outrf_blink.c line 3034 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_popTask::1::1::id=1 (00000001)
+
+State 962 file outrf_blink.c line 3037 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=0 (00000000)
+
+State 965 file outrf_blink.c line 3044 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 255 }
+
+State 966 file outrf_blink.c line 3045 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_Scheduler_taskLoop::$tmp::return_value_SchedulerBasicP_popTask$2=1 (00000001)
+
+State 969 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::nextTask=1 (00000001)
+
+State 976 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 979  thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_runTask::arg_0x147bb38=1 (00000001)
+
+State 988 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 990 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 992 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 996 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 997 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 1002 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=1888 (0000011101100000)
+
+State 1003 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=1888 (0000011101100000)
+
+State 1006 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=1888 (0000011101100000)
+
+State 1008 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=1888 (0000011101100000)
+
+State 1010 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=1888 (0000011101100000)
+
+State 1012 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=1888 (0000011101100000)
+
+State 1017 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 1019 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 1021 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 1023 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 1027 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 1028 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=59 (00000000000000000000000000111011)
+
+State 1029 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=59 (00000000000000000000000000111011)
+
+State 1034 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1038 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=59 (00000000000000000000000000111011)
+
+State 1040 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=59 (00000000000000000000000000111011)
+
+State 1042 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=59 (00000000000000000000000000111011)
+
+State 1044 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=59 (00000000000000000000000000111011)
+
+State 1046 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=59 (00000000000000000000000000111011)
+
+State 1048 file outrf_blink.c line 3296 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::now=59 (00000000000000000000000000111011)
+
+State 1049 file outrf_blink.c line 3297 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining=2147483647 (01111111111111111111111111111111)
+
+State 1050 file outrf_blink.c line 3298 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining_isset=0 (00000000)
+
+State 1059 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 1068 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=0 (00000000)
+
+State 1070 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1072 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=4294966655 (11111111111111111111110101111111)
+
+State 1073 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=891 (00000000000000000000001101111011)
+
+State 1075 file outrf_blink.c line 3310 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining=891 (00000000000000000000001101111011)
+
+State 1076 file outrf_blink.c line 3311 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining_isset=1 (00000001)
+
+State 1077 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=1 (00000001)
+
+State 1080 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1082 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=4294966155 (11111111111111111111101110001011)
+
+State 1083 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=1641 (00000000000000000000011001101001)
+
+State 1086 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=2 (00000010)
+
+State 1089 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1091 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=4294967177 (11111111111111111111111110001001)
+
+State 1092 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=1119 (00000000000000000000010001011111)
+
+State 1095 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=3 (00000011)
+
+State 1102 file outrf_blink.c line 2776 function VirtualizeTimerC_0_TimerFrom_startOneShotAt thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_startOneShotAt::t0=59 (00000000000000000000000000111011)
+
+State 1103 file outrf_blink.c line 2776 function VirtualizeTimerC_0_TimerFrom_startOneShotAt thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_startOneShotAt::dt=891 (00000000000000000000001101111011)
+
+State 1105 file outrf_blink.c line 2771 function AlarmToTimerC_0_Timer_startOneShotAt thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Timer_startOneShotAt::t0=59 (00000000000000000000000000111011)
+
+State 1106 file outrf_blink.c line 2771 function AlarmToTimerC_0_Timer_startOneShotAt thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Timer_startOneShotAt::dt=891 (00000000000000000000001101111011)
+
+State 1108 file outrf_blink.c line 2764 function AlarmToTimerC_0_start thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_start::t0=59 (00000000000000000000000000111011)
+
+State 1109 file outrf_blink.c line 2764 function AlarmToTimerC_0_start thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_start::dt=891 (00000000000000000000001101111011)
+
+State 1110 file outrf_blink.c line 2764 function AlarmToTimerC_0_start thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_start::oneshot=1 (00000001)
+
+State 1111 file outrf_blink.c line 2764 function AlarmToTimerC_0_start thread 0
+----------------------------------------------------
+  AlarmToTimerC_0_m_dt=891 (00000000000000000000001101111011)
+
+State 1112 file outrf_blink.c line 2765 function AlarmToTimerC_0_start thread 0
+----------------------------------------------------
+  AlarmToTimerC_0_m_oneshot=1 (00000001)
+
+State 1114 file outrf_blink.c line 2759 function AlarmToTimerC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_startAt::t0=59 (00000000000000000000000000111011)
+
+State 1115 file outrf_blink.c line 2759 function AlarmToTimerC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_startAt::dt=891 (00000000000000000000001101111011)
+
+State 1120 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1122 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1126 file outrf_blink.c line 3362 function TransformAlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_Alarm_startAt::1::1::__nesc_atomic=1 (00000001)
+
+State 1127 file outrf_blink.c line 3364 function TransformAlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_t0=59 (00000000000000000000000000111011)
+
+State 1128 file outrf_blink.c line 3365 function TransformAlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_dt=891 (00000000000000000000001101111011)
+
+State 1132 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 1134 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=0 (00000000)
+
+State 1136 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1140 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=0 (00000000)
+
+State 1141 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 1146 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=0 (0000000000000000)
+
+State 1147 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=0 (0000000000000000)
+
+State 1150 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=0 (0000000000000000)
+
+State 1152 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=0 (0000000000000000)
+
+State 1154 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=0 (0000000000000000)
+
+State 1156 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=0 (0000000000000000)
+
+State 1161 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 1163 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 1165 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 1167 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 1171 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 1172 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=0 (00000000000000000000000000000000)
+
+State 1173 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 1180 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_set_alarm::$tmp::return_value_TransformAlarmC_0_Counter_get$1=0 (00000000000000000000000000000000)
+
+State 1182 file outrf_blink.c line 3162 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_set_alarm::1::now=0 (00000000000000000000000000000000)
+
+State 1183 file outrf_blink.c line 3167 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_set_alarm::1::expires=950 (00000000000000000000001110110110)
+
+State 1184 file outrf_blink.c line 3168 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_set_alarm::1::remaining=950 (00000000000000000000001110110110)
+
+State 1188 file outrf_blink.c line 3186 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_set_alarm::1::remaining=0 (00000000000000000000000000000000)
+
+State 1191 file outrf_blink.c line 3199 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_t0=950 (00000000000000000000001110110110)
+
+State 1192 file outrf_blink.c line 3200 function TransformAlarmC_0_set_alarm thread 0
+----------------------------------------------------
+  TransformAlarmC_0_m_dt=0 (00000000000000000000000000000000)
+
+State 1194 file outrf_blink.c line 1894 function TransformAlarmC_0_AlarmFrom_startAt thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_AlarmFrom_startAt::t0=0 (0000000000000000)
+
+State 1195 file outrf_blink.c line 1894 function TransformAlarmC_0_AlarmFrom_startAt thread 0
+----------------------------------------------------
+  outrf_blink::TransformAlarmC_0_AlarmFrom_startAt::dt=0 (0000000000000000)
+
+State 1197 file outrf_blink.c line 1869 function Msp430AlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::Msp430AlarmC_0_Alarm_startAt::t0=0 (0000000000000000)
+
+State 1198 file outrf_blink.c line 1869 function Msp430AlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::Msp430AlarmC_0_Alarm_startAt::dt=0 (0000000000000000)
+
+State 1201 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=1 (0000000000000001)
+
+State 1202 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=1 (0000000000000001)
+
+State 1205 file outrf_blink.c line 1863 function Msp430AlarmC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430AlarmC_0_Alarm_startAt::$tmp::return_value_Msp430AlarmC_0_Msp430Timer_get$1=1 (0000000000000001)
+
+State 1207 file outrf_blink.c line 1869 function Msp430AlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::Msp430AlarmC_0_Alarm_startAt::1::1::now=1 (0000000000000001)
+
+State 1208 file outrf_blink.c line 1870 function Msp430AlarmC_0_Alarm_startAt thread 0
+----------------------------------------------------
+  outrf_blink::Msp430AlarmC_0_Alarm_startAt::1::1::elapsed=1 (0000000000000001)
+
+State 1211 file outrf_blink.c line 1856 function Msp430AlarmC_0_Msp430Compare_setEventFromNow thread 0
+----------------------------------------------------
+  outrf_blink::Msp430AlarmC_0_Msp430Compare_setEventFromNow::delta=2 (0000000000000010)
+
+State 1213 file outrf_blink.c line 1851 function Msp430TimerCapComP_3_Compare_setEventFromNow thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_Compare_setEventFromNow::x=2 (0000000000000010)
+
+State 1216 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=6 (0000000000000110)
+
+State 1217 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=6 (0000000000000110)
+
+State 1220 file outrf_blink.c line 1846 function Msp430TimerCapComP_3_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Compare_setEventFromNow::$tmp::return_value_Msp430TimerCapComP_3_Timer_get$1=6 (0000000000000110)
+
+State 1222 file outrf_blink.c line 1851 function Msp430TimerCapComP_3_Compare_setEventFromNow thread 0
+----------------------------------------------------
+  _TBCCR0=8 (0000000000001000)
+
+State 1228 file outrf_blink.c line 1824 function Msp430TimerCapComP_3_Control_clearPendingInterrupt thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 1233 file outrf_blink.c line 1814 function Msp430TimerCapComP_3_Control_enableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16400 (0100000000010000)
+
+State 1242 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1250 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::i=1 (0000000000000001)
+
+State 1254 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1256 file outrf_blink.c line 3098 function sig_TIMERB0_VECTOR thread 0
+----------------------------------------------------
+  hook=2 (00000010)
+
+State 1265 file outrf_blink.c line 1716 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::x=16400 (0100000000010000)
+
+State 1266 file outrf_blink.c line 1717 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::1::c={ .f=16400 }
+
+State 1267 file outrf_blink.c line 1718 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Control_getControl::$tmp::return_value_Msp430TimerCapComP_3_int2CC$1={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=-1, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 1269 file outrf_blink.c line 1723 function Msp430TimerCapComP_3_Control_getControl thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Event_fired::$tmp::return_value_Msp430TimerCapComP_3_Control_getControl$2={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=-1, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 1277 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 1289 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=0 (00000000)
+
+State 1291 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1295 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=0 (00000000)
+
+State 1297 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=0 (00000000)
+
+State 1299 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=0 (00000000)
+
+State 1300 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=1 (00000001)
+
+State 1303 file outrf_blink.c line 1765 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=0 (00000000)
+
+State 1306 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=5 (00000101)
+
+State 1325 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1327 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1329 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1333 file outrf_blink.c line 3062 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::1::__nesc_atomic=1 (00000001)
+
+State 1336 file outrf_blink.c line 3034 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_popTask::1::1::id=0 (00000000)
+
+State 1337 file outrf_blink.c line 3037 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=255 (11111111)
+
+State 1339 file outrf_blink.c line 3042 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=255 (11111111)
+
+State 1340 file outrf_blink.c line 3044 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 255 }
+
+State 1341 file outrf_blink.c line 3045 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_Scheduler_taskLoop::$tmp::return_value_SchedulerBasicP_popTask$2=0 (00000000)
+
+State 1344 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::nextTask=0 (00000000)
+
+State 1351 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1354  thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_runTask::arg_0x147bb38=0 (00000000)
+
+State 1368 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 1370 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1372 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1376 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 1377 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 1382 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=-27104 (1001011000100000)
+
+State 1383 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=38432 (1001011000100000)
+
+State 1386 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=38432 (1001011000100000)
+
+State 1388 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=38432 (1001011000100000)
+
+State 1390 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=38432 (1001011000100000)
+
+State 1392 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=38432 (1001011000100000)
+
+State 1397 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 1399 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 1401 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 1403 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 1407 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 1408 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=1201 (00000000000000000000010010110001)
+
+State 1409 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=1201 (00000000000000000000010010110001)
+
+State 1414 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1418 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=1201 (00000000000000000000010010110001)
+
+State 1420 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=1201 (00000000000000000000010010110001)
+
+State 1422 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=1201 (00000000000000000000010010110001)
+
+State 1424 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=1201 (00000000000000000000010010110001)
+
+State 1426 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_TimerFrom_fired::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=1201 (00000000000000000000010010110001)
+
+State 1430 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::num=0 (00000000)
+
+State 1432 file outrf_blink.c line 3334 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1434 file outrf_blink.c line 3337 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::1::1::elapsed=501 (00000000000000000000000111110101)
+
+State 1438 file outrf_blink.c line 3346 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=950, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=1000, .isoneshot=0, .isrunning=1, ._reserved=0 } }
+
+State 1440  thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_Timer_fired::arg_0x18a3ea0=0 (00000000)
+
+State 1452 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1454 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1458 file outrf_blink.c line 2619 function HplMsp430GeneralIOP_36_IO_toggle thread 0
+----------------------------------------------------
+  outrf_blink::HplMsp430GeneralIOP_36_IO_toggle::1::1::__nesc_atomic=1 (00000001)
+
+State 1459 file outrf_blink.c line 2620 function HplMsp430GeneralIOP_36_IO_toggle thread 0
+----------------------------------------------------
+  _P5OUT=239 (11101111)
+
+State 1464 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1480 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1482 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1486 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=1 (00000001)
+
+State 1488 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=1 (00000001)
+
+State 1490 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=1 (00000001)
+
+State 1491 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=0 (00000000)
+
+State 1495 file outrf_blink.c line 1753 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=1 (00000001)
+
+State 1496 file outrf_blink.c line 1754 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=1 (00000001)
+
+State 1498 file outrf_blink.c line 1761 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=1 (00000001)
+
+State 1501 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 1506 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1515 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::i=2 (0000000000000010)
+
+State 1519 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1521 file outrf_blink.c line 3098 function sig_TIMERB0_VECTOR thread 0
+----------------------------------------------------
+  hook=3 (00000011)
+
+State 1530 file outrf_blink.c line 1716 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::x=16384 (0100000000000000)
+
+State 1531 file outrf_blink.c line 1717 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  outrf_blink::Msp430TimerCapComP_3_int2CC::1::c={ .f=16384 }
+
+State 1532 file outrf_blink.c line 1718 function Msp430TimerCapComP_3_int2CC thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Control_getControl::$tmp::return_value_Msp430TimerCapComP_3_int2CC$1={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 1534 file outrf_blink.c line 1723 function Msp430TimerCapComP_3_Control_getControl thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerCapComP_3_Event_fired::$tmp::return_value_Msp430TimerCapComP_3_Control_getControl$2={ .ccifg=0, .cov=0, .out=0, .cci=0, .ccie=0, .outmod=0,
+    .cap=0, .clld=0, .scs=0, .ccis=0, .cm=1 }
+
+State 1542 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 1554 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=0 (00000000)
+
+State 1556 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1560 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=0 (00000000)
+
+State 1562 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=0 (00000000)
+
+State 1564 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=0 (00000000)
+
+State 1565 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=0 (00000000)
+
+State 1570 file outrf_blink.c line 1758 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 0 }
+
+State 1571 file outrf_blink.c line 1759 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=0 (00000000)
+
+State 1572 file outrf_blink.c line 1761 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=1 (00000001)
+
+State 1575 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 1594 file outrf_blink.c line 3061 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1596 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1598 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1602 file outrf_blink.c line 3062 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::1::__nesc_atomic=1 (00000001)
+
+State 1605 file outrf_blink.c line 3034 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_popTask::1::1::id=1 (00000001)
+
+State 1606 file outrf_blink.c line 3037 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_head=0 (00000000)
+
+State 1609 file outrf_blink.c line 3044 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 255, 255 }
+
+State 1610 file outrf_blink.c line 3045 function SchedulerBasicP_popTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_Scheduler_taskLoop::$tmp::return_value_SchedulerBasicP_popTask$2=1 (00000001)
+
+State 1613 file outrf_blink.c line 3064 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::1::nextTask=1 (00000001)
+
+State 1620 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1623  thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_runTask::arg_0x147bb38=1 (00000001)
+
+State 1632 file outrf_blink.c line 3207 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=0 (00000000000000000000000000000000)
+
+State 1634 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1636 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1640 file outrf_blink.c line 3211 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::__nesc_atomic=1 (00000001)
+
+State 1641 file outrf_blink.c line 3213 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::high=0 (00000000000000000000000000000000)
+
+State 1646 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430TimerP_1_Timer_get::$tmp::return_value_nondet_bv$1=-27136 (1001011000000000)
+
+State 1647 file outrf_blink.c line 3233 function Msp430TimerP_1_Timer_get thread 0
+----------------------------------------------------
+  _TBR=38400 (1001011000000000)
+
+State 1650 file outrf_blink.c line 1773 function Msp430CounterC_0_Msp430Timer_get thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_get::$tmp::return_value_Msp430CounterC_0_Msp430Timer_get$1=38400 (1001011000000000)
+
+State 1652 file outrf_blink.c line 1778 function Msp430CounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_get::1::result=38400 (1001011000000000)
+
+State 1654 file outrf_blink.c line 1785 function TransformCounterC_0_CounterFrom_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_get$2=38400 (1001011000000000)
+
+State 1656 file outrf_blink.c line 3214 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::low=38400 (1001011000000000)
+
+State 1661 file outrf_blink.c line 1790 function Msp430TimerP_1_Timer_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::Msp430CounterC_0_Msp430Timer_isOverflowPending::1::result=0 (00000000)
+
+State 1663 file outrf_blink.c line 1797 function Msp430CounterC_0_Msp430Timer_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::Msp430CounterC_0_Counter_isOverflowPending::$tmp::return_value_Msp430CounterC_0_Msp430Timer_isOverflowPending$1=0 (00000000)
+
+State 1665 file outrf_blink.c line 1802 function Msp430CounterC_0_Counter_isOverflowPending thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_CounterFrom_isOverflowPending::1::result=0 (00000000)
+
+State 1667 file outrf_blink.c line 1809 function TransformCounterC_0_CounterFrom_isOverflowPending thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformCounterC_0_Counter_get::$tmp::return_value_TransformCounterC_0_CounterFrom_isOverflowPending$3=0 (00000000)
+
+State 1671 file outrf_blink.c line 3221 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::high_to=0 (00000000000000000000000000000000)
+
+State 1672 file outrf_blink.c line 3222 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::1::1::2::low_to=1200 (00000000000000000000010010110000)
+
+State 1673 file outrf_blink.c line 3223 function TransformCounterC_0_Counter_get thread 0
+----------------------------------------------------
+  outrf_blink::TransformCounterC_0_Counter_get::1::rv=1200 (00000000000000000000010010110000)
+
+State 1678 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1682 file outrf_blink.c line 2809 function TransformAlarmC_0_Counter_get thread 0
+----------------------------------------------------
+  c::outrf_blink::TransformAlarmC_0_Alarm_getNow::$tmp::return_value_TransformAlarmC_0_Counter_get$1=1200 (00000000000000000000010010110000)
+
+State 1684 file outrf_blink.c line 2814 function TransformAlarmC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  outrf_blink::AlarmToTimerC_0_Alarm_getNow::1::result=1200 (00000000000000000000010010110000)
+
+State 1686 file outrf_blink.c line 2821 function AlarmToTimerC_0_Alarm_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::AlarmToTimerC_0_Timer_getNow::$tmp::return_value_AlarmToTimerC_0_Alarm_getNow$1=1200 (00000000000000000000010010110000)
+
+State 1688 file outrf_blink.c line 2826 function AlarmToTimerC_0_Timer_getNow thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_TimerFrom_getNow::1::result=1200 (00000000000000000000010010110000)
+
+State 1690 file outrf_blink.c line 2833 function VirtualizeTimerC_0_TimerFrom_getNow thread 0
+----------------------------------------------------
+  c::outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::$tmp::return_value_VirtualizeTimerC_0_TimerFrom_getNow$1=1200 (00000000000000000000010010110000)
+
+State 1692 file outrf_blink.c line 3296 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::now=1200 (00000000000000000000010010110000)
+
+State 1693 file outrf_blink.c line 3297 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining=2147483647 (01111111111111111111111111111111)
+
+State 1694 file outrf_blink.c line 3298 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining_isset=0 (00000000)
+
+State 1703 file outrf_blink.c line 1678 function Msp430TimerCapComP_3_Control_disableEvents thread 0
+----------------------------------------------------
+  _TBCCTL0=16384 (0100000000000000)
+
+State 1712 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=0 (00000000)
+
+State 1714 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1716 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=250 (00000000000000000000000011111010)
+
+State 1717 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=0 (00000000000000000000000000000000)
+
+State 1719 file outrf_blink.c line 3310 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining=0 (00000000000000000000000000000000)
+
+State 1720 file outrf_blink.c line 3311 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining_isset=1 (00000001)
+
+State 1721 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=1 (00000001)
+
+State 1724 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1726 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=0 (00000000000000000000000000000000)
+
+State 1727 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=500 (00000000000000000000000111110100)
+
+State 1730 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=2 (00000010)
+
+State 1733 file outrf_blink.c line 3303 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1735 file outrf_blink.c line 3306 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::elapsed=1022 (00000000000000000000001111111110)
+
+State 1736 file outrf_blink.c line 3307 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::1::1::remaining=-22 (11111111111111111111111111101010)
+
+State 1738 file outrf_blink.c line 3310 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining=-22 (11111111111111111111111111101010)
+
+State 1739 file outrf_blink.c line 3311 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::min_remaining_isset=1 (00000001)
+
+State 1740 file outrf_blink.c line 3301 function VirtualizeTimerC_0_updateFromTimer_runTask thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_updateFromTimer_runTask::1::num=3 (00000011)
+
+State 1747 file outrf_blink.c line 3332 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::num=0 (00000000)
+
+State 1749 file outrf_blink.c line 3334 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::1::timer=&VirtualizeTimerC_0_m_timers[0].t0
+
+State 1751 file outrf_blink.c line 3337 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_fireTimers::1::1::1::elapsed=250 (00000000000000000000000011111010)
+
+State 1755 file outrf_blink.c line 3346 function VirtualizeTimerC_0_fireTimers thread 0
+----------------------------------------------------
+  VirtualizeTimerC_0_m_timers={ { .t0=1200, .dt=250, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=1200, .dt=500, .isoneshot=0, .isrunning=1, ._reserved=0 }, 
+    { .t0=178, .dt=1000, .isoneshot=0, .isrunning=1, ._reserved=0 } }
+
+State 1757  thread 0
+----------------------------------------------------
+  outrf_blink::VirtualizeTimerC_0_Timer_fired::arg_0x18a3ea0=0 (00000000)
+
+State 1769 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1771 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1775 file outrf_blink.c line 2619 function HplMsp430GeneralIOP_36_IO_toggle thread 0
+----------------------------------------------------
+  outrf_blink::HplMsp430GeneralIOP_36_IO_toggle::1::1::__nesc_atomic=1 (00000001)
+
+State 1776 file outrf_blink.c line 2620 function HplMsp430GeneralIOP_36_IO_toggle thread 0
+----------------------------------------------------
+  _P5OUT=255 (11111111)
+
+State 1781 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1797 file outrf_blink.c line 3083 function __nesc_atomic_start thread 0
+----------------------------------------------------
+  outrf_blink::__nesc_atomic_start::1::result=1 (00000001)
+
+State 1799 file outrf_blink.c line 2953 function __nesc_disable_interrupt thread 0
+----------------------------------------------------
+  _R2=0 (0000000000000000)
+
+State 1803 file outrf_blink.c line 3146 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::__nesc_atomic=1 (00000001)
+
+State 1805 file outrf_blink.c line 1747 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_pushTask::id=1 (00000001)
+
+State 1807 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_isWaiting::id=1 (00000001)
+
+State 1808 file outrf_blink.c line 1742 function SchedulerBasicP_isWaiting thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_pushTask::$tmp::return_value_SchedulerBasicP_isWaiting$1=0 (00000000)
+
+State 1813 file outrf_blink.c line 1758 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_next={ 1, 255 }
+
+State 1814 file outrf_blink.c line 1759 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  SchedulerBasicP_m_tail=1 (00000001)
+
+State 1815 file outrf_blink.c line 1761 function SchedulerBasicP_pushTask thread 0
+----------------------------------------------------
+  c::outrf_blink::SchedulerBasicP_TaskBasic_postTask::$tmp::return_value_SchedulerBasicP_pushTask$2=1 (00000001)
+
+State 1818 file outrf_blink.c line 3149 function SchedulerBasicP_TaskBasic_postTask thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_TaskBasic_postTask::1::1::1::1::__nesc_temp=0 (00000000)
+
+State 1823 file outrf_blink.c line 1540 function __nesc_enable_interrupt thread 0
+----------------------------------------------------
+  _R2=8 (0000000000001000)
+
+State 1831 file outrf_blink.c line 3056 function SchedulerBasicP_Scheduler_taskLoop thread 0
+----------------------------------------------------
+  outrf_blink::SchedulerBasicP_Scheduler_taskLoop::1::i=3 (0000000000000011)
+
+Violated property:
+  file outrf_blink.c line 3259 function main
+  assertion
+  ((int)_P5OUT & 0x10) == 0x00 || ((int)_P5OUT & 0x20) == 0x00 || ((int)_P5OUT & 0x40) == 0x00
+
+VERIFICATION FAILED
+Verification time: 11 seconds

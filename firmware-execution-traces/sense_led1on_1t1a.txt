@@ -1,0 +1,178 @@
+file outrf_sense.c: Parsing
+Converting
+Type-checking outrf_sense
+Generating GOTO Program
+Function Pointer Removal
+Pointer Analysis
+Adding Pointer Checks
+Starting Bounded Model Checking
+Unwinding loop 0 iteration 1 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 2 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 3 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 4 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 5 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 6 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 7 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 8 file lib/libc_string.h line 13 function memset
+Unwinding loop 2 iteration 1 file outrf_sense.c line 5732 function AdcStreamP_Init_init
+Unwinding loop 0 iteration 1 file lib/libc_string.h line 13 function memset
+Unwinding loop 4 iteration 1 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 2 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 3 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 4 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 5 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 6 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 7 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 8 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 9 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 10 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 11 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 4 iteration 12 file outrf_sense.c line 5891 function SchedulerBasicP_Scheduler_taskLoop
+Unwinding loop 27 iteration 1 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 27 iteration 2 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 27 iteration 3 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 25 iteration 1 file outrf_sense.c line 5444 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 25 iteration 2 file outrf_sense.c line 5444 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 25 iteration 3 file outrf_sense.c line 5444 function VirtualizeTimerC_0_updateFromTimer_runTask
+Unwinding loop 27 iteration 1 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 27 iteration 2 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 27 iteration 3 file outrf_sense.c line 7144 function VirtualizeTimerC_0_fireTimers
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 35 iteration 1 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 2 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 3 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 4 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 5 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 6 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 7 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 8 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 9 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 10 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 11 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 12 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 1 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 2 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 3 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 4 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 5 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 6 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 7 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 8 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 9 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 10 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 11 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 35 iteration 12 file outrf_sense.c line 5054 function Msp430Adc12ImplP_SingleChannel_configureMultiple
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 26 iteration 1 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 2 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 3 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 4 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 5 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 6 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 7 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 8 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 9 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 10 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 11 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 26 iteration 12 file outrf_sense.c line 4139 function AdcStreamP_readStreamFail_runTask
+Unwinding loop 18 iteration 1 file outrf_sense.c line 4192 function RoundRobinResourceQueueC_0_RoundRobinQueue_isEmpty
+Unwinding loop 19 iteration 1 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 2 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 3 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 4 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 5 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 6 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 7 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 8 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 9 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 10 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 11 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 19 iteration 12 file outrf_sense.c line 4222 function RoundRobinResourceQueueC_0_RoundRobinQueue_dequeue
+Unwinding loop 5 iteration 1 file outrf_sense.c line 5881 function SchedulerBasicP_Scheduler_taskLoop
+size of program expression: 31012 assignments
+simple slicing removed 1 assignments
+Generated 1 VCC(s), 1 remaining after simplification
+Passing problem to propositional reduction
+Running propositional reduction
+Solving with MiniSAT2 without simplifier
+438173 variables, 561847 clauses
+empty clause: negated claim is UNSATISFIABLE, i.e., holds
+Runtime decision procedure: 7.543s
+VERIFICATION SUCCESSFUL
+Verification time: 29 seconds

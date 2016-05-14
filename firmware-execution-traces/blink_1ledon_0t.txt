@@ -1,0 +1,14 @@
+file outrf_blink.c: Parsing
+Converting
+Type-checking outrf_blink
+Generating GOTO Program
+Function Pointer Removal
+Pointer Analysis
+Adding Pointer Checks
+Starting Bounded Model Checking
+Unwinding loop 0 iteration 1 file lib/libc_string.h line 13 function memset
+Unwinding loop 0 iteration 2 file lib/libc_string.h line 13 function memset
+size of program expression: 1104 assignments
+simple slicing removed 0 assignments
+Generated 1 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
